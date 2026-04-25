@@ -2,7 +2,7 @@
 
 Olá, Bem vindo ao meu projeto Alura Plus.
 
-![image](https://i.imgur.com/a/SExCDok)
+![image](https://imgur.com/a/SExCDok)
 
 ## Ferramentas utilizadas:
 
