@@ -2,7 +2,8 @@
 
 Olá, Bem vindo ao meu projeto Alura Plus.
 
-![image](https://imgur.com/a/SExCDok)
+<img width="1920" height="4539" alt="FireShot Capture 001 - Alura Plus -  aluraplus-rose-gamma vercel app" src="https://github.com/user-attachments/assets/f6342fe3-70a5-4d3f-ad3a-87edfbe5fb9b" />
+
 
 ## Ferramentas utilizadas:
 
